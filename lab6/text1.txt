@@ -1,0 +1,10 @@
+type_1 butterflies_1 2000 halo_1 100
+type_2 butterflies_2 2005 halo_2 150
+type_3 butterflies_3 2010 halo_3 200
+type_1 butterflies_4 2015 halo_4 250
+type_5 butterflies_5 2020 halo_5 300
+type_6 butterflies_6 2003 halo_2 120
+type_7 butterflies_7 2008 halo_7 180
+type_8 butterflies_8 2013 halo_8 220
+type_1 butterflies_9 2018 halo_9 260
+type_10 butterflies_10 2007 halo_10 140

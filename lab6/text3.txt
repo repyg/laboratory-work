@@ -1,0 +1,57 @@
+New_York Cityplex Cityplex_Film_Center 5
+Premiere 50 200
+IMAX 70 150
+VIP 40 50
+3D 60 100
+Standard 45 120
+
+London Cineplex Cineplex_Theatre 4
+Main_Hall 75 180
+VIP_Lounge 75 80
+3D_Experience 0 100
+Kids_Zone 75 70
+
+Los_Angeles Star_Cinemas Star_Cinemas_Complex 6
+Mega_Hall 65 250
+Ultra_Screen 75 150
+Silver_Lounge 55 100
+Gold_Class 60 120
+Standard_I 45 100
+Standard_II 45 100
+
+Toronto Cinema_World Cinema_World_Complex 3
+Premiere_Hall 50 200
+IMAX_Premium 70 150
+3D_Hall 60 100
+
+Sydney Screen_Masters Screen_Masters_Cinema 2
+Luxury_Hall 55 180
+Standard_Hall 45 120
+
+Mumbai Mega_Theaters Mega_Theaters_Multiplex 5
+Premiere_Screen 50 200
+IMAX_Experience 70 150
+VIP_Hall 40 50
+3D_Showcase 60 100
+Standard_Screen 45 120
+
+Paris Star_Cinemas Stars_Cinemas_Complex 4
+Mega_Hall 65 250
+Ultra_Screen 75 150
+Silver_Lounge 55 100
+Gold_Class 60 120
+
+Berlin City_Cinemas City_Cinemas_Theater 3
+Premiere_Hall 50 200
+IMAX_Premium 70 150
+3D_Hall 60 100
+
+Melbourne Screen_Magic Screen_Magic_Multiplex 2
+Luxury_Hall 70 180
+Standard_Hall 75 120
+
+Tokyo Cineplex Cineplex_Theatre 4
+Main_Hall 75 180
+VIP_Lounge 75 80
+3D_Experience 75 100
+Kids_Zone 75 70

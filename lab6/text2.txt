@@ -1,0 +1,48 @@
+Moscow Library_named_after._Lenin 5000.5 3
+Theme_1 100 
+Theme_2 15 
+Theme_3 200
+1000 500
+Saint-Petersburg Pushkin_Library 4000.7 2
+Theme_1 80
+Theme_2 120
+700 400
+New_York City_Library 6000.3 4
+Theme_1 120
+Theme_2 180
+Theme_3 240
+Theme_4 300
+1500 600
+Tokyo Central_Library 3500.9 2
+Theme_1 70
+Theme_2 110
+700 350
+London National_Library 4500.2 3
+Theme_1 90
+Theme_2 135
+Theme_3 180
+700 450
+Paris Library_of_France 3800.6 2
+Theme_1 76
+Theme_2 114
+760 380
+Berlin State_Library 4200.8 3
+Theme_1 84
+Theme_2 126
+Theme_3 168 
+840 420
+Rome Municipal_Library 3900.4 2
+Theme_1 78
+Theme_2 117
+780 390
+Beijing Main_Library 4700.1 4
+Theme_1 94
+Theme_2 141
+Theme_3 188
+Theme_4 235
+940 470
+Kyiv Central_City_Library 4100.5 3
+Theme_1 82
+Theme_2 123
+Theme_3 164
+820 410
