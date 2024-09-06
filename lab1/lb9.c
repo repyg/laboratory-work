@@ -15,5 +15,5 @@ int main(void){
                 printf("%s\n", name[i]);
         }
     }
-    
+    return 0;
 }
